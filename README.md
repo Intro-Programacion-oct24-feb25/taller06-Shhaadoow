@@ -1,3 +1,6 @@
+## Grupo conformado por Antonio Ojeda y Pablo Ordóñez
+## En el ejemplo 1 el archivo correcto es el Problema011
+
 # taller06
 
 ### Problema01
